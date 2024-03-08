@@ -1,0 +1,26 @@
+.principal
+{
+    background-color: rgb(242, 211, 211);
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap; 
+}
+.caja
+{
+    background-color: rgb(255, 251, 232);
+    width: 200px;
+    height: 300px;
+    margin: 5px;
+}
+.caja1
+{
+    background-color: rgb(235, 223, 167);
+    margin: 5px;
+    height: 200px;
+}
+.caja1-1
+{
+    background-color: rgb(199, 167, 235);
+    margin: 5px;
+    height: 200px;
+}
